@@ -1,11 +1,11 @@
 # Site settings
-author: MEGAN RENAE LEWIS
-title: 
+author: Megan Renae lewis
+title: Techie Meggie
 header-img: img/home-bg.png
 email: meganrenaelewis@gmail.com
-copyright_name: MEGAN RENAE LEWIS
+copyright_name: Megan Renae lewis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Transition From Sales to Web Developing
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MegRenae
